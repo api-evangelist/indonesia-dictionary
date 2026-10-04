@@ -39,7 +39,6 @@ apis:
   - name: Indonesia Dictionary
     description: "Indonesia dictionary many words"
     humanURL: https://new-kbbi-api.herokuapp.com/
-    baseURL: https://new-kbbi-api.herokuapp.com/
     tags:
       - Dictionaries
     properties:
