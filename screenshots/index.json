@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "indonesia-dictionary",
+    "captured_at": "2026-10-11T185935",
+    "source_url": "https://new-kbbi-api.herokuapp.com/",
+    "source_type": "Website",
+    "file": "indonesia-dictionary-2026-10-11T185935.png",
+    "bytes": 195244,
+    "capture": "playwright-local"
+  }
+]
